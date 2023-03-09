@@ -1,2 +1,2 @@
 # Example Repository
-Hello World, GIT!!
+Hello World, GIT Pull
